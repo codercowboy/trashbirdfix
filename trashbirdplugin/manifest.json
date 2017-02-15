@@ -1,0 +1,12 @@
+// Simple extension to replace the facebook 'trash bird' sticker with a trolling trent reznor sticker.
+// Based on the "BlockCat" sample chrome extension found here: https://developer.chrome.com/extensions/samples
+// Instructions for installing this extension are found here: https://github.com/codercowboy/trashbirdfix
+
+{
+  "name": "TrashBirdFix",
+  "version": "1.0",
+  "description": "Trash Bird Fix",
+  "permissions": ["webRequest", "webRequestBlocking", "*://*/*"],
+  "background": { "scripts": ["background.js"] },
+  "manifest_version": 2
+}
