@@ -12,39 +12,39 @@ See this beautiful plugin in action on youtube [here](https://www.youtube.com/wa
 
 ## Installation Instructions
 
-1. Download the plugin zip from this website, like so:
+1: Download the plugin zip from this website, like so:
 
 ![](/img/step1.png?raw=true)
 
-2. Unzip the zip somewhere, remember where you unzipped it.
+2: Unzip the zip somewhere, remember where you unzipped it.
 
 ![](/img/step2.png?raw=true)
 
-3. Open chrome, click the "Window" menu at the top, then "Extensions".
+3: Open chrome, click the "Window" menu at the top, then "Extensions".
 
 ![](/img/step3.png?raw=true)
 
-4. In the Extensions tab, click the check box to enable "developer mode" on the top right (shown below in red). 
+4: In the Extensions tab, click the check box to enable "developer mode" on the top right (shown below in red). 
 
 ![](/img/step4.png?raw=true)
 
-5. Still in the Extensions tab, click the "Load unpacked extension..." button (shown above in the green box).
+5: Still in the Extensions tab, click the "Load unpacked extension..." button (shown above in the green box).
 
-6. Find the "trashbirdplugin" folder that unzipped from the zip file you downloaded, select that folder.
+6: Find the "trashbirdplugin" folder that unzipped from the zip file you downloaded, select that folder.
 
 ![](/img/step5.png?raw=true)
 
-7. If you haven't screwed up so far, you'll see the trashbirdfix plugin in your extensions window:
+7: If you haven't screwed up so far, you'll see the trashbirdfix plugin in your extensions window:
 
 ![](/img/step6.png?raw=true)
 
-8. If the plugin isn't enabled, click "enable" there (above, in green).
+8: If the plugin isn't enabled, click "enable" there (above, in green).
 
-9. Load facebook in a tab. Watch trent troll. 
+9: Load facebook in a tab. Watch trent troll. 
 
 ![](/img/step7.png?raw=true)
 
-10. Clone this plugin, make your own redirected stickers, here's the template:
+10: Clone this plugin, make your own redirected stickers, here's the template:
 
 ![](/img/trentsticker.png?raw=true)
 
